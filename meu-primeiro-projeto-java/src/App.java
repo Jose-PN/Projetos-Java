@@ -7,7 +7,7 @@ public class App {
 
         boolean variável = true;
      
-        variavel = variável;
+        variavel = variavel;
         System.out.println(variável);
     }
 }
